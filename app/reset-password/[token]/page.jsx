@@ -29,6 +29,7 @@ export default function ResetPasswordPage() {
       setMessage("Server error");
     }
   };
+  
 
   return (
     <div style={{ maxWidth: "400px", margin: "2rem auto" }}>
