@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { useRouter } from "next/navigation";
-import InputField from "../../components/InputField";
+import InputField from "../../../components/InputField";
 
 export default function SignupPage() {
   const router = useRouter();
